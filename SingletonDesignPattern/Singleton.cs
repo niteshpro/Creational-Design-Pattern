@@ -16,7 +16,7 @@ namespace SingletonDesignPattern
             //constructor
         {
             get {
-                if (instance == null)
+                if (instance == null) 
                 {
                     lock (obj)
                     {

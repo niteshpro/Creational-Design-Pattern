@@ -10,7 +10,7 @@ namespace DesignPattern
 
             Console.WriteLine("Singleton Design Pattern");
 
-            Parallel.Invoke(
+            Parallel.Invoke( //adding this to invoke both method simultaneously 
                 () => GetEmployee(),
                 () => GetStudent()
             );
