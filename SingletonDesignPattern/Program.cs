@@ -7,16 +7,27 @@ namespace DesignPattern
     {
         public static void Main()
         {
-            
+
             Console.WriteLine("Singleton Design Pattern");
 
-            Singleton EmployeeClass = Singleton.GetInstance;
-            EmployeeClass.PrintDetails("From Employee Class");
-
-            Singleton StudentClass = Singleton.GetInstance;
-            StudentClass.PrintDetails("From Student Class");
+            Parallel.Invoke(
+                () => GetEmployee(),
+                () => GetStudent()
+            );
 
             Console.ReadLine();
+        }
+
+        private static void GetStudent()
+        {
+            Singleton StudentClass = Singleton.GetInstance;
+            StudentClass.PrintDetails("From Student Class");
+        }
+
+        private static void GetEmployee()
+        {
+            Singleton EmployeeClass = Singleton.GetInstance;
+            EmployeeClass.PrintDetails("From Employee Class");
         }
     }
 }

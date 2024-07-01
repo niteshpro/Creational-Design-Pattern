@@ -9,6 +9,8 @@ namespace SingletonDesignPattern
         private static int counter=0;
         
         private static Singleton instance = null;
+        private static readonly object obj = new();
+
         public static Singleton GetInstance
             //this is a Property of Class Singleton which is having getter for the
             //constructor
@@ -16,8 +18,14 @@ namespace SingletonDesignPattern
             get {
                 if (instance == null)
                 {
-                    instance = new Singleton();
-                    
+                    lock (obj)
+                    {
+                        if (instance == null)
+                        {
+                            instance = new Singleton();
+
+                        }
+                    }
                 }
                 return instance;
             }
