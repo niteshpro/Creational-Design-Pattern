@@ -29,5 +29,17 @@ namespace DesignPattern
             Singleton EmployeeClass = Singleton.GetInstance;
             EmployeeClass.PrintDetails("From Employee Class");
         }
+
+        private static void GetEagerStudent()
+        {
+            EagerLoadingSingleton StudentClass = EagerLoadingSingleton.GetLoadingInstance;
+            StudentClass.PrintDetails("From Student Class");
+        }
+
+        private static void GetEagerEmployee()
+        {
+            EagerLoadingSingleton EmployeeClass = EagerLoadingSingleton.GetLoadingInstance;
+            EmployeeClass.PrintDetails("From Employee Class");
+        }
     }
 }

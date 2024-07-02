@@ -18,7 +18,7 @@ namespace SingletonDesignPattern
             get {
                 if (instance == null) 
                 {
-                    lock (obj)
+                    lock (obj) //using lazy initializer to make sure only single insta
                     {
                         if (instance == null)
                         {
