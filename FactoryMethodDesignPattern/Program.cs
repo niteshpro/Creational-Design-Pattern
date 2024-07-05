@@ -16,6 +16,15 @@ namespace FactoryMethodDesignPattern
 
             IVehicle vehicle3 = vehicleFactory.GetVehicle("truck");
             vehicle3.DisplayInfo();  // Output: This is a Truck.
+
+
+            AnimalFactory animalFactory = new AnimalFactory();
+
+            IAnimal animal1 = animalFactory.GetAnimal("Dog");
+            animal1.Speak(); //output: Woof! Woof!
+
+            IAnimal anima2 = animalFactory.GetAnimal("Cat");
+            anima2.Speak(); //output: Meow! Meow!
         }
     }
 
