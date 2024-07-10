@@ -1,0 +1,15 @@
+C:\Users\nitesh\Desktop\project\CreationalDesignPattern\BuilderDesigmPattern-PizzaDemo\bin\Debug\net6.0\BuilderDesigmPattern-PizzaDemo.exe
+C:\Users\nitesh\Desktop\project\CreationalDesignPattern\BuilderDesigmPattern-PizzaDemo\bin\Debug\net6.0\BuilderDesigmPattern-PizzaDemo.deps.json
+C:\Users\nitesh\Desktop\project\CreationalDesignPattern\BuilderDesigmPattern-PizzaDemo\bin\Debug\net6.0\BuilderDesigmPattern-PizzaDemo.runtimeconfig.json
+C:\Users\nitesh\Desktop\project\CreationalDesignPattern\BuilderDesigmPattern-PizzaDemo\bin\Debug\net6.0\BuilderDesigmPattern-PizzaDemo.dll
+C:\Users\nitesh\Desktop\project\CreationalDesignPattern\BuilderDesigmPattern-PizzaDemo\bin\Debug\net6.0\BuilderDesigmPattern-PizzaDemo.pdb
+C:\Users\nitesh\Desktop\project\CreationalDesignPattern\BuilderDesigmPattern-PizzaDemo\obj\Debug\net6.0\BuilderDesigmPattern-PizzaDemo.csproj.AssemblyReference.cache
+C:\Users\nitesh\Desktop\project\CreationalDesignPattern\BuilderDesigmPattern-PizzaDemo\obj\Debug\net6.0\BuilderDesigmPattern-PizzaDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitesh\Desktop\project\CreationalDesignPattern\BuilderDesigmPattern-PizzaDemo\obj\Debug\net6.0\BuilderDesigmPattern-PizzaDemo.AssemblyInfoInputs.cache
+C:\Users\nitesh\Desktop\project\CreationalDesignPattern\BuilderDesigmPattern-PizzaDemo\obj\Debug\net6.0\BuilderDesigmPattern-PizzaDemo.AssemblyInfo.cs
+C:\Users\nitesh\Desktop\project\CreationalDesignPattern\BuilderDesigmPattern-PizzaDemo\obj\Debug\net6.0\BuilderDesigmPattern-PizzaDemo.csproj.CoreCompileInputs.cache
+C:\Users\nitesh\Desktop\project\CreationalDesignPattern\BuilderDesigmPattern-PizzaDemo\obj\Debug\net6.0\BuilderDesigmPattern-PizzaDemo.dll
+C:\Users\nitesh\Desktop\project\CreationalDesignPattern\BuilderDesigmPattern-PizzaDemo\obj\Debug\net6.0\refint\BuilderDesigmPattern-PizzaDemo.dll
+C:\Users\nitesh\Desktop\project\CreationalDesignPattern\BuilderDesigmPattern-PizzaDemo\obj\Debug\net6.0\BuilderDesigmPattern-PizzaDemo.pdb
+C:\Users\nitesh\Desktop\project\CreationalDesignPattern\BuilderDesigmPattern-PizzaDemo\obj\Debug\net6.0\BuilderDesigmPattern-PizzaDemo.genruntimeconfig.cache
+C:\Users\nitesh\Desktop\project\CreationalDesignPattern\BuilderDesigmPattern-PizzaDemo\obj\Debug\net6.0\ref\BuilderDesigmPattern-PizzaDemo.dll
